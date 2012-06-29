@@ -17,17 +17,17 @@
   (color-theme-install
    '(color-theme-anothermonokai
      ((foreground-color . "#F8F8F2")
-      (background-color . "#1D1E19")
+      (background-color . "#272822")
       (cursor-color . "#F8F8F0")
       (background-mode . dark))
 
-     (default ((t (:foreground "#F8F8F2" :background "#1D1E19"))))
+     (default ((t (:foreground "#F8F8F2" :background "#272822"))))
      (bold ((t (:weight bold))))
      (bold-italic ((t (:weight bold :slant italic))))
      (custom-face-tag ((t (:foreground "#66D9EF" :weight bold))))
      (custom-state ((t (:foreground "#A6E22E"))))
      (italic ((t (:slant italic))))
-     (region ((t (:background "#2F2F26"))))
+     (region ((t (:background "#383830"))))
      (underline ((t (:underline t))))
      (css-selector ((t (:foreground "#F92672"))))
      (css-property ((t (:foreground "#66D9EF"))))
@@ -65,7 +65,7 @@
      (font-lock-variable-name-face ((t (:foreground "#F92672"))))
      (font-lock-warning-face ((t (:foreground "#FFFFFF"
                                               :background "#333333"))))
-     (fringe ((t (:background "#1D1E19"))))
+     (fringe ((t (:background "#272822"))))
      (linum ((t (:foreground "F8F8F2" :background "#272822"))))
      (highlight ((t (:foreground "#000000" :background "#C4BE89"))))
      (hl-line ((t (:background "#293739"))))
