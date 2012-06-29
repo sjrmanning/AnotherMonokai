@@ -10,13 +10,10 @@ Supports auto-complete-mode and ido.
 Screenshots
 ===========
 
-![center](http://i.imgur.com/2dK1C.png)
+![Showing ido and some syntax highlighting](http://i.imgur.com/2dK1C.png)
+
 Minibuffer showing ido open file.
 
-![center](http://i.imgur.com/GaGFs.png)
-Auto-complete popup colouring.
+![Showing auto-complete](http://i.imgur.com/GaGFs.png)
 
-[alt=center] {
-  display: block;
-  margin: auto;
-}
+Auto-complete popup colouring.
