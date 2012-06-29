@@ -118,6 +118,8 @@
      (ido-first-match ((t (:foreground "#F92672"))))
      (ido-only-match ((t (:foreground "#AE81FF"))))
 
+     (ac-candidate-face ((t (:foreground "#66D9EF" :background "#31322A"))))
+     (ac-selection-face ((t (:foreground "#F92672" :background "#49483E"))))
      )))
 
 
